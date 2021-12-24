@@ -9,3 +9,5 @@
 - https://juanmatorres-dev.me/test/Lorem%20Ipsum_medio_muy_pesado.txt
 
 - https://juanmatorres-dev.me/test/Lorem%20Ipsum_medio.txt
+
+- https://juanmatorres-dev.me/test/testDeSaltosDeLinea.txt
